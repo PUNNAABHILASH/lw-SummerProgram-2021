@@ -61,7 +61,7 @@ while True:
 
             mail.send(receiver='receiver_mail@gmail.com',  # Email From Any service Provider
                       subject='image from face recognition',
-                      message='Hello!! This is face of sender')
+                      message='Howdy! this is face of Obama')
             print("mail sent!!")
             
            
